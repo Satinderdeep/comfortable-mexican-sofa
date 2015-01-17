@@ -6,7 +6,7 @@ gemspec
 gem 'kaminari'
 
 # gem 'comfortable_mexican_sofa', :github => 'comfy/comfortable-mexican-sofa', :branch => '2.0'
-gem 'comfortable_mexican_sofa', :github => 'Satinderdeep/comfortable-mexican-sofa', :branch => '2.0.richtext_snippets'
+
 
 group :development do
 
